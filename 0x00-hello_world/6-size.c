@@ -1,4 +1,3 @@
-gcc 6-size.c -m64 -o size64
 #include <stdio.h>
 /**
  * main - Entery point
