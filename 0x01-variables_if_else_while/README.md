@@ -1,1 +1,1 @@
-his program will assign a random number to the variable
+The last digit
