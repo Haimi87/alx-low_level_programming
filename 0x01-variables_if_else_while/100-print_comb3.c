@@ -23,12 +23,12 @@ int main(void)
 				putchar(',');
 				putchar(' ');
 			}
+			c++;
 		}
-		c++;
+		d++;
 	}
-	d++;
+	putchar('\n');
+	return (0);
 }
-putchar('\n');
-return (0);
-}
+
 
